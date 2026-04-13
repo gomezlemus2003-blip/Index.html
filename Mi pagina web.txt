@@ -1,0 +1,114 @@
+<!Doctype html>
+<html>
+<head>
+ <meta conjunto de caracteres="UTF-8">
+    <title>Mi página web personal</title>
+</cabeza>
+<boby style="color de fondo: gris;">
+     <h1 style="text-align: center; font-family: cursive; color: white; font-size: 40px;">Mi Presentación Personal</h1>
+     <h2 style="color: negro; alineación de texto: centro'">María Carmela Gomez Lemuz</h2>
+   <Mi_Imagen src="imagen.jpg"alt="imagen.jpg"altura=10>
+
+<div estilo="color de fondo: azul; altura="400" ancho="400;">
+     <h3 estilo="text-align: center: font-family: serif; color: purple; font-size: 37px; text-align: center;">Mis Intereses Personales</h3
+     <ol>
+       
+        <li><i>Programar en Diseño Web</i></li>
+        <li><b>Me Gusta Leer Libros</b></li>
+        <li><tú>Ver Novelas</tú></li>
+        <li><s>La Música</s><li>
+     </ol>
+</div>
+
+<div estilo="color de fondo: naranja; altura="350;">
+  <h4 estilo="color red; font-family: verdana; font-size: 34px; text-align: center;">Mi Historial Educativo</h4> 
+      <pag estilo="tamaño de fuente: 28px; color: negro;">Terminó el tercer ciclo de Educación Básica, en este momento estoy 
+       en Educación Media, en Bachillerato Informatica.
+     </pg>
+   </div>
+
+<div estilo="color de fondo : verde; altura="300' ancho="300;">
+   <h5 estilo="color: gold; font-family: span; font-size: 30px; text-align center;">Mis Datos Personales</h5>
+   <mesa>
+    <tr>
+     <el>Número</el>
+     <el>Edad</el>
+     <el>Correo electrónico</el>
+ 
+  </tr>
+
+<tr>
+  <el>99303667</el>
+  <el>22 años</el>
+  <el>gomezlemus2003gmail.com</el>
+  </tr>
+
+  </mesa>
+  </div>
+
+<div estilo ="color de fondo: violeta; altura="250;"> ancho="250;">
+      <h6 estilo=" color: verde; font-family: sans-serif; font-size: 28px; text-align: center;">Mis Redes Sociales</h6>
+      <ul>
+           <li><a href="https://www.facebook.com"objetivo"_blanco">Facebook</a></li>
+           <li>>a href="https://www.istagram.com"objetivo"_blanco">Istagram</a></li>
+           <li><a href="https://www.youtube.com"objetivo"_blanco">YouTube</a></li>
+        </ul>
+</div>
+
+<div estilo="color de fondo: rosa; altura="200" ancho=200;">
+     <h6 estilo="color: purple; font-family: justify; fon-size: 25px; text-align: center;">Me Identifico</h6>
+     <ul>
+        <li>Sociable</li>
+        <li>Humilde</li>
+        <li>Simpática</li>
+        <li>Amigable></li>
+     </ul>
+   </div>
+ </cuerpo>
+ </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
